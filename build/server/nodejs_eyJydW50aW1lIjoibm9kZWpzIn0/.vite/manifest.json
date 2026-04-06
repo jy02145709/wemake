@@ -1,0 +1,15 @@
+{
+  "/Users/glenn/wemake/app/app.css": {
+    "file": "assets/app-BnvFh2Ls.css",
+    "src": "/Users/glenn/wemake/app/app.css"
+  },
+  "virtual:react-router/server-build": {
+    "file": "index.js",
+    "name": "server-build",
+    "src": "virtual:react-router/server-build",
+    "isEntry": true,
+    "assets": [
+      "assets/app-BnvFh2Ls.css"
+    ]
+  }
+}

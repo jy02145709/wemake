@@ -1,0 +1,1 @@
+ALTER TABLE "jobs" ADD COLUMN "apply_url" text NOT NULL;
